@@ -7,7 +7,7 @@ This project implements algorithms for sequence alignment, alignment scores and 
  - ⬇️Saves file or 🔄️Updates existing file with the final aligned sequences from the first dataset.
  - 🏗️Training and construction of the hmm profile, transition table and emission table using the first dataset.
  - ⬇️Saves file or 🔄️Updates existing file with the hmm profile.
- - 🧮Alignment scores and alignment paths calculation to the second dataset using the Viterbi algorithm to the trained hmm profile, transition table and emission.
+ - 🧮Alignment scores and alignment paths calculation to the second dataset using the Viterbi algorithm to the trained hmm profile, transition table and emission table.
  - ⬇️Saves file or 🔄️Updates existing file with the final alignment scores and alignment paths from the second dataset.
 
 ## 🧠Technologies used:
