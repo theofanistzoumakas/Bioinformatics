@@ -19,7 +19,7 @@ This project implements algorithms for sequence alignment, alignment scores and 
 
 
 ## 🎯Purpose
-This was created to explore how alignment can be done on character sequences (such as proteins) using a combination of algorithms, how Hidden Markov Model profiles, transaction and emission tables are trained and constructed through the sequences, and finally how the profiles and tables are used to calculate automatically the alignment and scores of other sequences that were not involved in training and construction. It is developed solely for academic and research purposes.
+This was created to explore how alignment can be done on character sequences (such as proteins) using a combination of algorithms, how Hidden Markov Model profiles, transaction and emission tables are trained and constructed through the sequences, and finally how the profiles and tables are used to calculate automatically the alignment and scores of other sequences that were not involved in training and construction. **It is developed solely for academic and research purposes**.
 
 
 ## 🧰Prerequisites
