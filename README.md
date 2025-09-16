@@ -33,7 +33,7 @@ Required Libraries
 🧪 How to Run
 1. **Clone the repository (or download and decompress the ZIP file).**
 ```bash
-git clone https://github.com/theofanistzoumakas /Bioinformatics.git
+git clone https://github.com/theofanistzoumakas/Bioinformatics.git
 cd Bioinformatics
 ```
 
