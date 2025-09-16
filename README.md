@@ -30,7 +30,7 @@ Before running the application, make sure your environment is properly configure
 Required Libraries
 - Numpy (version 2.0.0 or newer)
 
-🧪 How to Run
+## 🧪 How to Run
 1. **Clone the repository (or download and decompress the ZIP file).**
 ```bash
 git clone https://github.com/theofanistzoumakas/Bioinformatics.git
