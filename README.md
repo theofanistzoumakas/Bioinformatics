@@ -46,7 +46,9 @@ cd Bioinformatics
 This project was created and maintained by:
 
 Theofanis Tzoumakas (@theofanistzoumakas)
+
 Konstantinos Pavlis (@kpavlis)
+
 Michael-Panagiotis Kapetanios (@KapetaniosMP)
 
 🚫 Unauthorized use is strictly prohibited.
