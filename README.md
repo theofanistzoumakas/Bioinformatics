@@ -1,6 +1,9 @@
 # 🧬Bioinformatics
 This project implements algorithms for sequence alignment, alignment scores and alignment paths calculation.
 
+> ℹ️ This project is not open source and does not grant any usage rights.
+> For usage terms and legal information, see [Code Ownership & Usage Terms](#-code-ownership--usage-terms).
+
 ## 🚀This project includes:
  - 🔠Sequence processing to construct random sequences and splitting data into two datasets.
  - ⚙️Implementing Universal Sequence Alignment on the first dataset progressively, using the Needlman Wunsch algorithm for aligning pairs of sequences.
