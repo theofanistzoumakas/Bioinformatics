@@ -30,6 +30,18 @@ Before running the application, make sure your environment is properly configure
 Required Libraries
 - Numpy (version 2.0.0 or newer)
 
+🧪 How to Run
+1. **Clone the repository (or download and decompress the ZIP file).**
+```bash
+git clone https://github.com/theofanistzoumakas /Bioinformatics.git
+cd Bioinformatics
+```
+
+2. Confirm that you have installed the required libraries
+3. Run bioinformatics.py
+4. View the sequences before and after the final/completed alignment, the hmm profile (transaction table) and the alignment scores and paths from the second dataset.
+5. View the txt files that includes the final aligned sequences from the first dataset, the transaction table from the first dataset and the final alignment scores and alignment paths from the second dataset.
+
 ## 🔒 Code Ownership & Usage Terms
 This project was created and maintained by:
 
