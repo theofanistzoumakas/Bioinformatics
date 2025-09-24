@@ -38,7 +38,7 @@ cd Bioinformatics
 ```
 
 2. Confirm that you have installed the required libraries
-3. Run bioinformatics.py
+3. Run the file.
 4. View the sequences before and after the final/completed alignment, the hmm profile (transaction table) and the alignment scores and paths from the second dataset.
 5. View the txt files that includes the final aligned sequences from the first dataset, the transaction table from the first dataset and the final alignment scores and alignment paths from the second dataset.
 
